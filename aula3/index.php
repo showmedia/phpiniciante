@@ -25,7 +25,6 @@ if($nota > $media /* && $nota < $media */){
 <?php 
 
 //estrutura de repetição
-
 for($i=0;$i<10;$i++){
     echo 'Pedro Neres - '. $i . '<br>';
 }
